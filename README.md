@@ -11,7 +11,7 @@ cordova plugin add /ruta/a/cordova-plugin-enext-biometria
 
 ### Desde repositorio Git:
 ```bash
-cordova plugin add https://github.com/enext/cordova-plugin-enext-biometria.git
+cordova plugin add https://github.com/fgarcia-enext/cordova-plugin-enext-biometria.git
 ```
 
 ## Requisitos
@@ -308,3 +308,4 @@ Para soporte tecnico o solicitar credenciales:
 ## Licencia
 
 MIT License - Copyright (c) 2025 Enext
+
