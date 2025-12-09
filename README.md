@@ -21,6 +21,11 @@ cordova plugin add https://github.com/fgarcia-enext/cordova-plugin-enext-biometr
 - El plugin `cordova-plugin-advanced-http` se instala automaticamente como dependencia
 - Credenciales proporcionadas por Enext (username y password)
 
+### Credenciales temporales
+
+username: 'solidario'
+password: 'clavePrueba123'
+
 ## Integracion Rapida
 
 ### Paso 1: Configurar Credenciales al Iniciar la App
@@ -308,4 +313,5 @@ Para soporte tecnico o solicitar credenciales:
 ## Licencia
 
 MIT License - Copyright (c) 2025 Enext
+
 
